@@ -6,6 +6,14 @@ watch here...
 https://www.youtube.com/watch?v=3PHXvlpOkf4&feature=youtu.be
 
 #
+### 15. <b>Image Slideshow</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/15-slider) | [example](https://vannilla-js-basic-project-15-slider.netlify.app/))
+
+  - create image carousel with `Next` & `Prev` buttons
+  
+  - implement counter
+  
+  - dynamically update CSS styles with JavaScript
+#
 ### 14. <b>Grocery/To-do Checklist</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/14-todo) | [example](https://vannilla-js-basic-project-14-grocery-bud.netlify.app/))
   - add, remove and edit items dynamically in a grocery(to-do) list
   
