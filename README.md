@@ -7,22 +7,22 @@ https://www.youtube.com/watch?v=3PHXvlpOkf4&feature=youtu.be
 
 
 #
-### 1. 
+### 1. <b>Color Flipper</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/1-color-flipper) | [example](https://vannilla-js-basic-project-1-background-color.netlify.app/))
 
 #
-### 2. 
+### 2. <b>Simple Counter</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/2-counter) | [example](https://vanilla-js-basic-project-2-simple-counter.netlify.app/))
 
 #
-### 3. 
+### 3. <b>Reviews/Quotes</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/3-reviews) | [example](https://vanilla-js-basic-project-3-reviews.netlify.app/))
 
 #
-### 4. 
+### 4. <b>Navigation Bar</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/4-navbar) | [example](https://vanilla-js-basic-project-4-navbar.netlify.app/index.html))
 
 #
-### 5. 
+### 5. <b>Side Bar</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/5-sidebar) | [example](https://vanilla-js-basic-project-5-sidebar.netlify.app/))
 
 #
-### 6. 
+### 6. <b>Modal</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/6-modal) | [example](https://vanilla-js-basic-project-6-modal.netlify.app/))
 
 #
 ### 7. <b>Questions</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/7-questions) | [example](https://vanilla-js-basic-project-7-questions.netlify.app/))
@@ -63,13 +63,3 @@ https://www.youtube.com/watch?v=3PHXvlpOkf4&feature=youtu.be
   - create image carousel with `Next` & `Prev` buttons
   - implement counter
   - dynamically update CSS styles with JavaScript
-
-
-- [ ] 
-- [ ] 
-- [ ] <b>Modal</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/6-modal) | [example](https://vanilla-js-basic-project-6-modal.netlify.app/))
-- [ ] <b>Side Bar</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/5-sidebar) | [example](https://vanilla-js-basic-project-5-sidebar.netlify.app/))
-- [ ] <b>Navigation Bar</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/4-navbar) | [example](https://vanilla-js-basic-project-4-navbar.netlify.app/index.html))
-- [ ] <b>Reviews/Quotes</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/3-reviews) | [example](https://vanilla-js-basic-project-3-reviews.netlify.app/))
-- [ ] <b>Simple Counter</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/2-counter) | [example](https://vanilla-js-basic-project-2-simple-counter.netlify.app/))
-- [ ] <b>Color Flipper</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/1-color-flipper) | [example](https://vannilla-js-basic-project-1-background-color.netlify.app/))
